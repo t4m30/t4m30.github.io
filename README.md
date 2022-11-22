@@ -2,9 +2,46 @@
 
 >Hi! My name is Mark Steven O. Oronan
 
-My Favorite stuff
-- Sports
-- Anime
+**Birthday**: August 15,2007
+
+**Age**: 15
+
+**Zodiac sign**: Leo
+
+**My Favorites**
+
+**Food**
+- Salad
+- Sinigang
+- Adobo
+- Egg
+- Chopsuey
+- Chicken
+
+**Sports**
+- VolleyBall
+- Basketball
+- Billiards
+
+**Color**
+- White
+- Black
+- Khaki
+- Pink
+
+**Subject**
+- Araling Panlipunan
+- Filipino
+- Recess
+- Lunch
+- Uwian
+
+**NBA Team**
+- Milwaukee Bucks
+
+**NBA Player**
+- Giannis Antetokounmpo
+- Derrick Rose
 
 ![Milwaukee Bucks Logo](https://c4.wallpaperflare.com/wallpaper/269/331/589/basketball-milwaukee-bucks-logo-nba-hd-wallpaper-preview.jpg)
 
